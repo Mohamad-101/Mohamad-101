@@ -9,7 +9,7 @@ I enjoy building practical tools that connect engineering, data, and real-world 
 - Python, Scikit-Learn, CatBoost, FastAPI, Streamlit
 - Embedded Systems & Arduino
 - C, Python, Tensorflow, SQL, MATLAB
-- 
+
 ## Featured Projects
 - COSMONOVA: AI exoplanet detection platform using CatBoost, FastAPI, and Streamlit
 - California Housing Price Prediction: regression pipeline with feature engineering and Random Forest optimization
