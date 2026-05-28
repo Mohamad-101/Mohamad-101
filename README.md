@@ -13,8 +13,7 @@ I enjoy building practical tools that connect engineering, data, and real-world 
 ## Featured Projects
 - COSMONOVA: AI exoplanet detection platform using CatBoost, FastAPI, and Streamlit
 - California Housing Price Prediction: regression pipeline with feature engineering and Random Forest optimization
-- Car Rental Management System: C# WPF desktop app with authentication, reservations, and JSON persistence
-
+- Vehicle classifier: Deployed a live image classification web app using Streamlit, integrating a pre-trained MobileNetV2 neural network for automated vehicle detection.
 ## Contact
 - Email: mohamadalsaleh890@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mohamad-el-saleh-9a8b952a7/
