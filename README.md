@@ -2,12 +2,12 @@
 
 Aspiring Computer & Telecommunications Engineer focused on AI, data analytics, embedded systems, and software development.
 
-I enjoy building practical tools that connect engineering, data, and real-world decision-making. My recent work includes an AI-powered exoplanet detection platform, an iterative housing price prediction model, and a C# desktop management system.
+I enjoy building practical tools that connect engineering, data, and real-world decision-making.
 
 ## Focus Areas
 - Machine Learning & Data Analytics
 - Python, Scikit-Learn, CatBoost, FastAPI, Streamlit
-- Embedded Systems & Arduino
+- Embedded Systems & microcontrollers
 - C, Python, Tensorflow, SQL, MATLAB
 
 ## Featured Projects
